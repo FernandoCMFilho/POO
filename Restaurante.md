@@ -1,4 +1,4 @@
-##### Classe database
+### Classe database
 ``` Java
 
 package database;
@@ -142,7 +142,7 @@ public class Dados implements Serializable {
     
 }
 ```
-##### Classe Tela Restaurante
+### Classe Tela Restaurante
 ``` Java
 package restaurante;
 
@@ -492,7 +492,7 @@ public class telaRestaurante extends javax.swing.JFrame {
     // End of variables declaration                   
 }
 ```
-##### Classe Principal
+### Classe Principal
 ``` Java
 
 package restaurante;

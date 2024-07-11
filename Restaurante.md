@@ -1,3 +1,7 @@
+## O código a seguir tem como objetivo organizar opções de alimentos para um restaurante, nesse caso utilizando como base o RU (Restaurante Universitario), tendo opções para insersão como: Proteína, Sobremesa, Bebida e dentre outros.
+![image](https://github.com/FernandoCMFilho/POO/assets/54756245/d355b576-d37d-4a39-ac51-d891d61db231)
+
+
 ### Classe database
 ``` Java
 
